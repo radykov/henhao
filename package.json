@@ -1,0 +1,26 @@
+{
+  "name": "henhao",
+  "version": "1.0.2",
+  "description": "An ultra framework for installing complicated cross project language and infrastructure to run locally and on the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radykov/henhao.git"
+  },
+  "keywords": [
+    "framework",
+    "infrastructure",
+    "frontend",
+    "backend"
+  ],
+  "author": "Rinat Sadykov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radykov/henhao/issues"
+  },
+  "homepage": "https://github.com/radykov/henhao#readme"
+}
